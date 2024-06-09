@@ -74,3 +74,7 @@ input[type="submit"] {
     color: white;
     cursor: pointer;
 }
+footer p {
+    font-size: 24px;
+    color: black;
+}
